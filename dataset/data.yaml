@@ -1,0 +1,8 @@
+names:
+- piglet
+- crushing
+- crushed
+nc: 3
+test: /mydrive/yolov8_piglet_crushing/dataset/test.txt
+train: /mydrive/yolov8_piglet_crushing/dataset/train.txt
+val: /mydrive/yolov8_piglet_crushing/dataset/val.txt
